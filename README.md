@@ -6,10 +6,9 @@
   Desafio 06: Database Queries
 </h3>
 
-<p align="center">“Só deseje as coisas as quais você está disposto a lutar”!</blockquote>
+<p align="center">“Divida o problema em infinitas partes até se tornar impossível você não resolver.”!</blockquote>
 
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/prenato84/ignite-database-queries?style=flat">
+
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Paulo Castro" src="https://img.shields.io/badge/made%20by-Paulo%20Castro-orange">
@@ -59,7 +58,7 @@ Para facilitar, o projeto possui um arquivo `docker-compose.yml` que já cria o 
 - Clone este repositório
 
 ```
-> git clone https://github.com/prenato84/ignite-database-queries.git
+> git clone https://github.com/renanreyc/ignite-desafio-database-queries.git
 ```
 
 - Navegue até o diretório principal do projeto
